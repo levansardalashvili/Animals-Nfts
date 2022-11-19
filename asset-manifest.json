@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Animals-Nfts/static/css/main.69d0098a.css",
+    "main.js": "/Animals-Nfts/static/js/main.e89c7eb8.js",
+    "static/media/hero.png": "/Animals-Nfts/static/media/hero.c3676b97693f8391c4bb.png",
+    "static/media/art.jpg": "/Animals-Nfts/static/media/art.58c67b3acac90b16ca03.jpg",
+    "static/media/choose.jpg": "/Animals-Nfts/static/media/choose.759184ac388f38d9d6b2.jpg",
+    "static/media/3.jpg": "/Animals-Nfts/static/media/3.6b6024b92667df22ea95.jpg",
+    "static/media/heroText.png": "/Animals-Nfts/static/media/heroText.1ce3e652d5a1e370f425.png",
+    "static/media/5.jpg": "/Animals-Nfts/static/media/5.0ee870b892efc6bc7a9e.jpg",
+    "index.html": "/Animals-Nfts/index.html",
+    "main.69d0098a.css.map": "/Animals-Nfts/static/css/main.69d0098a.css.map",
+    "main.e89c7eb8.js.map": "/Animals-Nfts/static/js/main.e89c7eb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69d0098a.css",
+    "static/js/main.e89c7eb8.js"
+  ]
+}
